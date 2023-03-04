@@ -1,0 +1,46 @@
+*{
+    display: absolute;
+    
+}
+
+.navbar{
+    width:auto;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    color: black;
+    background-color: black;
+
+}
+
+.navbar-text{
+    padding-left: 0px;
+    padding-right: 60px;
+}
+
+.img{
+    padding-right: 0px;
+}
+
+#img{
+    background-image: url(./images/Cheese_Image.jpg); 
+    color: white;
+    width: auto;
+    height: 1080px;
+}
+
+#paragraph{
+    margin: 0px;
+    padding-left: 50px;
+    margin-top: 0px;
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    
+}
+
+
+
